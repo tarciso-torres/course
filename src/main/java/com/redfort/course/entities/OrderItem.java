@@ -6,8 +6,6 @@ import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.redfort.course.entities.pk.OrderItemPK;
 
